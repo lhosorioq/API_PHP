@@ -4,6 +4,6 @@
         "user":"su_user",
         "password":"su_parssword",
         "database":"su_database",
-        "port":"su_puerto"
+        "port":"3306"
     }
 }
