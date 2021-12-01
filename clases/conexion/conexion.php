@@ -73,8 +73,8 @@ class conexion {
         }
     }
     
-    //encriptar
-    protected function encriptar($string){
+    // Encriptar un string
+    protected function encriptar($string) {
         return md5($string);
     }
 }
